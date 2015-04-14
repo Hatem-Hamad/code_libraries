@@ -1,5 +1,5 @@
 /*!
- * AjaxJQueryHelpers v0.0.1 (http://getbootstrap.com)
+ * AjaxJQueryHelpers v0.0.1 (https://github.com/Hatem-Hamad/code_libraries/blob/master/JavaScript/AjaxJQueryHelpers.js)
  * 2015 Hatem Hamad.
  * Github : (https://github.com/Hatem-Hamad)
  * LinkedIn : (https://www.linkedin.com/in/hatemhamad)
